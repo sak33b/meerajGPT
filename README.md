@@ -17,7 +17,7 @@ This bot uses the [OpenAI Python Library](https://github.com/openai/openai-pytho
 ## Setup
 
 
-1. Go to https://platform.openai.com/account/api-keys, create a new API key, and fill in `OPENAI_KEY` variable in [responses.py](https://github.com/sak33b/meerajGPT/blob/main/responses.py) or set is as environment variable.
+1. Go to https://platform.openai.com/account/api-keys, create a new API key, and fill in `OPENAI_KEY` variable in [responses.py](https://github.com/sak33b/meerajGPT/blob/main/responses.py) or set it as environment variable.
 1. Create your own Discord application at https://discord.com/developers/applications
 1. Go to the Bot tab and click "Add Bot"
     - Click "Reset Token" and fill in `TOKEN` in [bot.py](https://github.com/sak33b/meerajGPT/blob/main/bot.py)
